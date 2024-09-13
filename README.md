@@ -1,1 +1,1 @@
-# ICRA2025_BatteryFreeRobotTestbed
+# ICRA2025_Battery-Free Robot Testbed

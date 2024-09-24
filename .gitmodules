@@ -1,0 +1,6 @@
+[submodule "Software_Design/boards"]
+	path = Software_Design/boards
+	url = https://gitlab.kuleuven.be/distrinet/taskforces/nes/freebot/board-definitions.git
+[submodule "Software_Design/lib/freebot"]
+	path = Software_Design/lib/freebot
+	url = https://gitlab.kuleuven.be/distrinet/taskforces/nes/freebot/library.git

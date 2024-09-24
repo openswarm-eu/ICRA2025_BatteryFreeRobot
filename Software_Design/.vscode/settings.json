@@ -1,0 +1,9 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ],
+    "nrf-connect.boardRoots": [
+        "${workspaceFolder}"
+    ],
+    "cmake.configureOnOpen": false
+}

@@ -1,1 +1,2 @@
-# ICRA2025_Battery-Free Robot Testbed
+# ICRA2025_Battery-Free Robot CapBot 
+
